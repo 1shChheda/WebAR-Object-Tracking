@@ -1,0 +1,9 @@
+fastapi
+fastapi-cors
+uvicorn
+pydantic
+torch
+torchvision
+mediapipe
+opencv-python
+ultralytics
